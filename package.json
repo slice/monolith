@@ -1,0 +1,14 @@
+{
+  "name": "monolith",
+  "version": "0.0.0",
+  "description": "sane command library for discord.js",
+  "main": "lib/index.js",
+  "keywords": [
+    "discord.js"
+  ],
+  "author": "slice <ryaneft@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^11.3.2"
+  }
+}
